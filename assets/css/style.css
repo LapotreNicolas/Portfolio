@@ -1224,3 +1224,8 @@ p>a,li>a,span>a {
   border-radius: 10px;
   padding: 2px 4px;
 }
+
+.img_redimension {
+  max-height: 40em;
+  object-fit: contain;
+} 
