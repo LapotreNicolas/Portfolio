@@ -1226,6 +1226,6 @@ p>a,li>a,span>a {
 }
 
 .img_redimension {
-  max-height: 40em;
+  max-height: 80vh;
   object-fit: contain;
 } 
